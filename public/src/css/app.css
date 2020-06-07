@@ -1,0 +1,8 @@
+.card-body .price {
+    font-weight: bold;
+    color: red;
+}
+
+.card {
+    margin: 0 0 5px 5px;
+}
